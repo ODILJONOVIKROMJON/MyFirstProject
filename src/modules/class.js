@@ -43,13 +43,14 @@ function clas(){
     }
   }
 
-  // Osonroq yo'li. Nimgadir xatolik berdi!
+  // Osonroq yo'li
   axios.get("http://localhost:3000/menu").then(data => {
     data.data.forEach(({srcimg, altimg, title, descr, price}) => {
       new MenuCard(srcimg, altimg, title, descr, price, ".menu .container").render();
     });
   });
 
+  // // Biroz qiyinroq yo'li
   // async function getRecource(url){
   //   const res = await fetch(url);
 
