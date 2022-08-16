@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "srcimg": "images/tabs/1.png",
+      "altimg": "vegy",
+      "title": "Plan «Usual»",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque aliquid molestiae, sit eveniet, tempora ipsum quaerat recusandae sapiente doloremque corporis dolores quas consectetur ut labore distinctio libero reiciendis harum sequi?",
+      "price": 10
+    },
+    {
+      "srcimg": "images/tabs/2.jpg",
+      "altimg": "elite",
+      "title": "Plan «“Premium”»",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque aliquid molestiae, sit eveniet, tempora ipsum quaerat recusandae sapiente doloremque corporis dolores quas consectetur ut labore distinctio libero reiciendis harum sequi?",
+      "price": 15
+    },
+    {
+      "srcimg": "images/tabs/3.jpg",
+      "altimg": "post",
+      "title": "Plan «VIP»",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque aliquid molestiae, sit eveniet, tempora ipsum quaerat recusandae sapiente doloremque corporis dolores quas consectetur ut labore distinctio libero reiciendis harum sequi?",
+      "price": 20
+    }
+  ],
+  "request": [
+    {
+      "name": "Ikromjon Odiljonov",
+      "phone": "+998916813162",
+      "id": 1
+    }
+  ]
+}
